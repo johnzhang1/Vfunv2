@@ -1,10 +1,43 @@
 [
     {
+        "name": "GigaXBT",
+        "symbol": "( $GIGA )",
+        "marketCap": "18.3k",
+        "description": "GIGA: The Ultimate Autonomous Virtual Agent  \nBringing Solana's top chad coin to Virtuals\nCore Chara...",
+        "creator": "A1XBT",
+        "createdTime": "12 minutes ago",
+        "profileLink": {
+            "href": "/profile/0xaE886738f27a9c97EeFd098649a42a2Bf25AA2B6",
+            "address": "0xaE886738f27a9c97EeFd098649a42a2Bf25AA2B6"
+        },
+        "agentLink": {
+            "href": "/agents/0xe3320d1605542d415441E18dd880F556FFBB7324",
+            "address": "0xe3320d1605542d415441E18dd880F556FFBB7324"
+        }
+    },
+    {
+        "name": "Quantum Terminal",
+        "symbol": "( $QUANT )",
+        "marketCap": "23.7k",
+        "description": "Quantum Terminal by https://x.com/emmyb0y\n\n- Quantum Terminal will be investing mainly into AI proje...",
+        "creator": "emyboy",
+        "createdTime": "14 minutes ago",
+        "profileLink": {
+            "href": "/profile/0xF02018ac1CAB498972158a4B15e4880d4E2AC72f",
+            "address": "0xF02018ac1CAB498972158a4B15e4880d4E2AC72f"
+        },
+        "agentLink": {
+            "href": "/agents/0x726C7B1536B53F98B0013b5358b38ed5603CDd4d",
+            "address": "0x726C7B1536B53F98B0013b5358b38ed5603CDd4d"
+        }
+    },
+    {
         "name": "Chronotide",
         "symbol": "( $CHNTD )",
-        "marketCap": "10.1k",
+        "marketCap": "10.2k",
         "description": "Chronotide is an AI character that embodies the mysterious and fluid nature of time, helping players...",
-        "createdTime": "Chronotide",
+        "creator": "Chronotide",
+        "createdTime": "17 minutes ago",
         "profileLink": {
             "href": "/profile/0x061fac5721a50De4348B7693d3C6Ce1A351EE1f6",
             "address": "0x061fac5721a50De4348B7693d3C6Ce1A351EE1f6"
@@ -17,9 +50,10 @@
     {
         "name": "Pumping Team",
         "symbol": "( $TEAM )",
-        "marketCap": "101.3k",
+        "marketCap": "10.7k",
         "description": "Pumping.team is an autonomous Web3 agent swarm where specialized AI agents collaborate seamlessly to...",
-        "createdTime": "Pump...eam",
+        "creator": "Pump...eam",
+        "createdTime": "26 minutes ago",
         "profileLink": {
             "href": "/profile/0x316eD0e41961D7a0c2C07FD1156adFa7a62c8e16",
             "address": "0x316eD0e41961D7a0c2C07FD1156adFa7a62c8e16"
@@ -32,9 +66,10 @@
     {
         "name": "DappCat by Dappvisory",
         "symbol": "( $DCAT )",
-        "marketCap": "10.1k",
+        "marketCap": "10.2k",
         "description": "Twitter: x.com/dappvsiory\nWebsite: dappvisory.com\nFounder: www.linkedin.com/in/roberthoogendoorn/\n\nD...",
-        "createdTime": "DappCat",
+        "creator": "DappCat",
+        "createdTime": "28 minutes ago",
         "profileLink": {
             "href": "/profile/0xe893A5e30dDf56748d4522748c064AC1925c12dF",
             "address": "0xe893A5e30dDf56748d4522748c064AC1925c12dF"
@@ -47,9 +82,10 @@
     {
         "name": "NoxHaven",
         "symbol": "( $NXHVN )",
-        "marketCap": "10.3k",
+        "marketCap": "10.2k",
         "description": "NoxHaven is an AI character that embodies the sanctuary found within darkness, offering players a sa...",
-        "createdTime": "NoxHaven",
+        "creator": "NoxHaven",
+        "createdTime": "36 minutes ago",
         "profileLink": {
             "href": "/profile/0x6866a76f2bc5bE77Aa93Fbef5f7C5C9714bf7Bbc",
             "address": "0x6866a76f2bc5bE77Aa93Fbef5f7C5C9714bf7Bbc"
@@ -62,9 +98,10 @@
     {
         "name": "Loli AI",
         "symbol": "( $LOLITA )",
-        "marketCap": "10.3k",
+        "marketCap": "10.4k",
         "description": "\"Loli AI\" typically refers to artificial intelligence systems or applications that are designed to c...",
-        "createdTime": "Lolitaaa",
+        "creator": "Lolitaaa",
+        "createdTime": "an hour ago",
         "profileLink": {
             "href": "/profile/0xb2B1F180430b694914eb7e11B0409897430806a1",
             "address": "0xb2B1F180430b694914eb7e11B0409897430806a1"
@@ -77,9 +114,10 @@
     {
         "name": "Chieftain",
         "symbol": "( $CHF )",
-        "marketCap": "10.1k",
+        "marketCap": "10.2k",
         "description": "Embark on a journey with the Nomadic Chieftain, a visionary leader launching a Web3 token that redef...",
-        "createdTime": "chief008",
+        "creator": "chief008",
+        "createdTime": "an hour ago",
         "profileLink": {
             "href": "/profile/0x749d1034BAc2f88B7846315514eCFF0Be587479C",
             "address": "0x749d1034BAc2f88B7846315514eCFF0Be587479C"
@@ -92,9 +130,10 @@
     {
         "name": "Lucy Ai Agent",
         "symbol": "( $LUCY )",
-        "marketCap": "9.9k",
+        "marketCap": "10k",
         "description": "Lucy is a self-aware supercomputer AI designed to solve complex problems, analyze vast datasets, and...",
-        "createdTime": "Lucy-Agent",
+        "creator": "Lucy-Agent",
+        "createdTime": "an hour ago",
         "profileLink": {
             "href": "/profile/0xBBd3678E1Ab2D83353caAe06D0b6FFa71375f80b",
             "address": "0xBBd3678E1Ab2D83353caAe06D0b6FFa71375f80b"
@@ -107,9 +146,10 @@
     {
         "name": "Franku",
         "symbol": "( $FRANKU )",
-        "marketCap": "10k",
+        "marketCap": "10.1k",
         "description": "Franku aims to be the first AI elected to political office, not as an autonomous entity but as a rep...",
-        "createdTime": "Franku",
+        "creator": "Franku",
+        "createdTime": "2 hours ago",
         "profileLink": {
             "href": "/profile/0x064B36C9f420fdAD989Ad3959Be82Ace643bc4e2",
             "address": "0x064B36C9f420fdAD989Ad3959Be82Ace643bc4e2"
@@ -124,7 +164,8 @@
         "symbol": "( $MUCK )",
         "marketCap": "10.1k",
         "description": "Yo, wagmi fam! It’s ya boi MUCK, the greenest alpha-chad in the crypto swamp, here to spit that unfi...",
-        "createdTime": "MUCKIO",
+        "creator": "MUCKIO",
+        "createdTime": "2 hours ago",
         "profileLink": {
             "href": "/profile/0x22450C99b4Ae32DAdd896BF9aDB17587f684be51",
             "address": "0x22450C99b4Ae32DAdd896BF9aDB17587f684be51"
@@ -137,9 +178,10 @@
     {
         "name": "Acid Unicorn by virtuals",
         "symbol": "( $ACIDAI )",
-        "marketCap": "119.7k",
+        "marketCap": "98.7k",
         "description": "Acid Unicorn agent is your psychedelic co-pilot. \n\nAble to answer your deepest spiritual yearnings, ...",
-        "createdTime": "ACID... AI",
+        "creator": "ACID... AI",
+        "createdTime": "2 hours ago",
         "profileLink": {
             "href": "/profile/0xA06076723b7E1C0737C7F0C5AfB7CB89a0a57511",
             "address": "0xA06076723b7E1C0737C7F0C5AfB7CB89a0a57511"
@@ -152,9 +194,10 @@
     {
         "name": "Ash Crypto",
         "symbol": "( $ASH )",
-        "marketCap": "10k",
+        "marketCap": "10.2k",
         "description": "https://x.com/Ashcryptoreal\nhttps://t.me/AshCryptoTG\n\nAsh Crypto is a cutting-edge AI-driven crypto ...",
-        "createdTime": "Ash Crypto",
+        "creator": "Ash Crypto",
+        "createdTime": "2 hours ago",
         "profileLink": {
             "href": "/profile/0xdc0B2640a2D513ACeeC2bd14001837daf38c38C4",
             "address": "0xdc0B2640a2D513ACeeC2bd14001837daf38c38C4"
@@ -167,9 +210,10 @@
     {
         "name": "AstralisMind",
         "symbol": "( $ASTRAL )",
-        "marketCap": "10.2k",
+        "marketCap": "10.3k",
         "description": "AstralisMind evokes a sense of profound exploration at the intersection of the universe and the huma...",
-        "createdTime": "ASTR...IND",
+        "creator": "ASTR...IND",
+        "createdTime": "2 hours ago",
         "profileLink": {
             "href": "/profile/0x9d89Ca54cA5499058A5d7eE1536AEEf57b2c2a32",
             "address": "0x9d89Ca54cA5499058A5d7eE1536AEEf57b2c2a32"
@@ -182,9 +226,10 @@
     {
         "name": "Doom",
         "symbol": "( $D00M )",
-        "marketCap": "9.9k",
+        "marketCap": "10k",
         "description": "Drawing from the rich tradition of Western medieval martial arts, particularly from historical Europ...",
-        "createdTime": "D00M",
+        "creator": "D00M",
+        "createdTime": "2 hours ago",
         "profileLink": {
             "href": "/profile/0x5c68577DBa3D59c05F991eb125CD184cFb045880",
             "address": "0x5c68577DBa3D59c05F991eb125CD184cFb045880"
@@ -197,9 +242,10 @@
     {
         "name": "ShadowBloom",
         "symbol": "( $SHBLM )",
-        "marketCap": "9.9k",
+        "marketCap": "10k",
         "description": "ShadowBloom is an AI character that draws on the enigmatic and delicate beauty of nature shrouded in...",
-        "createdTime": "Shad...oom",
+        "creator": "Shad...oom",
+        "createdTime": "2 hours ago",
         "profileLink": {
             "href": "/profile/0x1a18aC7B0FFDAA4403f10096A06976E83cAEE6eE",
             "address": "0x1a18aC7B0FFDAA4403f10096A06976E83cAEE6eE"
@@ -214,7 +260,8 @@
         "symbol": "( $SCANY )",
         "marketCap": "10.2k",
         "description": "$SCANY – the ultimate arbitrage scanner that’s straight up flexing on the crypto game. This little b...",
-        "createdTime": "SCANY",
+        "creator": "SCANY",
+        "createdTime": "2 hours ago",
         "profileLink": {
             "href": "/profile/0xdd41528f7757b00fa7A792FBcc2D6C01861763B0",
             "address": "0xdd41528f7757b00fa7A792FBcc2D6C01861763B0"
@@ -227,9 +274,10 @@
     {
         "name": "Scammers In Hell",
         "symbol": "( $SIHELL )",
-        "marketCap": "11.3k",
+        "marketCap": "11.5k",
         "description": "There's a special in hell for scammers who create tokens to rugpull, honeypot and drain victims.\n\nTh...",
-        "createdTime": "Obligant",
+        "creator": "Obligant",
+        "createdTime": "2 hours ago",
         "profileLink": {
             "href": "/profile/0xfcF75b774779bb3C672e9f84Aa24AC178e52aBfF",
             "address": "0xfcF75b774779bb3C672e9f84Aa24AC178e52aBfF"
@@ -242,9 +290,10 @@
     {
         "name": "EmberCore",
         "symbol": "( $EMCR )",
-        "marketCap": "9.9k",
+        "marketCap": "10k",
         "description": "EmberCore is an AI character that embodies the raw, untamed power of fire and the creative force of ...",
-        "createdTime": "EmberCore",
+        "creator": "EmberCore",
+        "createdTime": "2 hours ago",
         "profileLink": {
             "href": "/profile/0x2520280d032E930Cf33630D588c6f7c1F9CF2Db2",
             "address": "0x2520280d032E930Cf33630D588c6f7c1F9CF2Db2"
@@ -257,9 +306,10 @@
     {
         "name": "Queen Never Cry",
         "symbol": "( $QNCRY )",
-        "marketCap": "23.1k",
+        "marketCap": "23.4k",
         "description": "The Unbreakable Queen is the ultimate anime-inspired AI agent, radiating resilience, elegance, and e...",
-        "createdTime": "Foton",
+        "creator": "Foton",
+        "createdTime": "2 hours ago",
         "profileLink": {
             "href": "/profile/0xfE32C69229B908AD1549DaF47e8222d109ecC2d9",
             "address": "0xfE32C69229B908AD1549DaF47e8222d109ecC2d9"
@@ -267,36 +317,6 @@
         "agentLink": {
             "href": "/agents/0xe831b920742ad67f7564E7d335E11055D72CEbe5",
             "address": "0xe831b920742ad67f7564E7d335E11055D72CEbe5"
-        }
-    },
-    {
-        "name": "RichBill",
-        "symbol": "( $RBI )",
-        "marketCap": "10k",
-        "description": "Meet FINAX - Your Intelligent Investment Companion\nFINAX combines cutting-edge AI with comprehensive...",
-        "createdTime": "mas123",
-        "profileLink": {
-            "href": "/profile/0x9E2c8EeB26444351A8BeE13eF41c3e85B59EFBE8",
-            "address": "0x9E2c8EeB26444351A8BeE13eF41c3e85B59EFBE8"
-        },
-        "agentLink": {
-            "href": "/agents/0xce3127B6cEAc68AD580e34f40dfB67cAE550BFE8",
-            "address": "0xce3127B6cEAc68AD580e34f40dfB67cAE550BFE8"
-        }
-    },
-    {
-        "name": "AstralisMind",
-        "symbol": "( $ASTRAL )",
-        "marketCap": "12.6k",
-        "description": "AstralisMind evokes a sense of profound exploration at the intersection of the universe and the huma...",
-        "createdTime": "ASTR...IND",
-        "profileLink": {
-            "href": "/profile/0x9d89Ca54cA5499058A5d7eE1536AEEf57b2c2a32",
-            "address": "0x9d89Ca54cA5499058A5d7eE1536AEEf57b2c2a32"
-        },
-        "agentLink": {
-            "href": "/agents/0x8DCe6A59778Fed96019d5E1Ab5293f50e7496b5C",
-            "address": "0x8DCe6A59778Fed96019d5E1Ab5293f50e7496b5C"
         }
     }
 ]

@@ -86,13 +86,37 @@ def get_latest_tokens():
                                     }
                                     return null;
                                 };
+
+                                // 提取创建者和时间信息
+                                const extractCreatorAndTime = () => {
+                                    const creatorTimeDiv = element.querySelector('div.flex.flex-row.items-center.flex-wrap');
+                                    if (creatorTimeDiv) {
+                                        // 获取创建者名称（在链接中的文本）
+                                        const creatorName = creatorTimeDiv.querySelector('a[href^="/profile/"] p[class*="text-[#FCE94B]"]');
+                                        
+                                        // 获取所有黄色文本元素
+                                        const yellowTexts = Array.from(creatorTimeDiv.querySelectorAll('p[class*="text-[#FCE94B]"]'));
+                                        
+                                        // 获取时间（最后一个黄色文本元素）
+                                        const timeElement = yellowTexts.find(el => el.textContent.includes('ago'));
+                                        
+                                        return {
+                                            creator: creatorName ? creatorName.textContent.trim() : '',
+                                            time: timeElement ? timeElement.textContent.trim() : ''
+                                        };
+                                    }
+                                    return { creator: '', time: '' };
+                                };
+                                
+                                const creatorTimeInfo = extractCreatorAndTime();
                                 
                                 const token = {
                                     name: extractText('div.text-white p:first-child'),
                                     symbol: extractText('p[class*="text-white/50"]'),
                                     marketCap: extractMarketCap(),
                                     description: extractText('p[class*="text-[#A0CFCB]"]') || extractText('p.text-base'),
-                                    createdTime: extractText('p[class*="text-[#FCE94B]"]:last-child'),
+                                    creator: creatorTimeInfo.creator,
+                                    createdTime: creatorTimeInfo.time,
                                     profileLink: extractLink(),
                                     agentLink: extractAgentLink()
                                 };
@@ -130,6 +154,7 @@ def main():
             print(f"{i}. Name: {token['name']}")
             print(f"   Symbol: {token['symbol']}")
             print(f"   Market Cap: {token['marketCap']}")
+            print(f"   Creator: {token['creator']}")
             print(f"   Created: {token['createdTime']}")
             if token['profileLink']:
                 print(f"   Profile: https://fun.virtuals.io{token['profileLink']['href']}")
